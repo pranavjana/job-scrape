@@ -26,11 +26,11 @@ python linkedin_scraper.py
 The script will:
 1. Scrape 10 Software Engineer job postings from LinkedIn
 2. Extract required skills using Gemini AI
-3. Save the results in `linkedin_swe_skills.json`
+3. Save the results in `linkedin_jobs.json`
 
 ## Output Format
 
-The script generates a JSON file (`linkedin_swe_skills.json`) with the following structure:
+The script generates a JSON file (`linkedin_jobs.json`) with the following structure:
 
 ```json
 [
